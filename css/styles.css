@@ -122,12 +122,12 @@ a:visited {
 /*this is for portfolio section*/
 .headerport {
     box-sizing: border-box;
-    border: 2px solid rgb(255, 0, 0);
     text-align: center;
     font-family: Arial, sans-serif;
     color: #ffffff;
     font-size: 40px;
     padding: 20px;
+    border: 2px solid rgb(255, 0, 0);
 }
 .sectionport {
     display: grid;
