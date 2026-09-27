@@ -93,7 +93,6 @@ a:visited {
     font-family: Arial, sans-serif;
     color: #ffffff;
     font-size: 40px;
-    height: 150;
     display: grid;
     grid-template-columns: 1fr 1fr;
     border: 2px solid rgb(0, 255, 85);
