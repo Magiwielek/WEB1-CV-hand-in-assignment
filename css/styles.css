@@ -121,7 +121,7 @@ a:visited {
 }
 .sectionport {
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: auto auto auto;
     font-family: Arial, sans-serif;
     text-align: center;
     align-items: center;
